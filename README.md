@@ -4,11 +4,11 @@ A calming breathing animation web app designed to guide users through a 7.5-seco
 
 ---
 
+---
 ## 🌐 Live Preview
 
-You can host it using [Live Demo]() or any static server (like VS Code's Live Server).
-
----
+👉 **Live Demo:** [Click here to view the live demo](https://susrithag1908.github.io/MindRelaxer/)  
+Or run the project locally using any static server (such as Live Server in VS Code).
 
 ## 📁 Project Structure
 ```text
