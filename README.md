@@ -4,7 +4,6 @@ A calming breathing animation web app designed to guide users through a 7.5-seco
 
 ---
 
----
 ## 🌐 Live Preview
 
 👉 **Live Demo:** [Click here to view the live demo](https://susrithag1908.github.io/MindRelaxer/)  
